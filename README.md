@@ -52,7 +52,7 @@
 </tr>
 </table>
 <hr>
-<a href="https://github.com/Niteen222/github-readme-status">
+<a href="https://github.com/Niteen222/github-readme-stats">
   <img align="center" src="https://github-readme-status.vercel.app/api/top-langs/?username=Niteen222&theme=radical&hide=glsl,python" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
