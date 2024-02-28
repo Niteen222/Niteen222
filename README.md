@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/niteen-pandey-40460a169/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niteen222" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/niteen22" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="60" /></a>
 <a href="https://atcoder.jp/users/niteen22" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGRxXtERyQNdpuym5Z21kP5EpmePg6CkGixdvLEtAgg&s" alt="Codechef" height="70" width="70" /></a>
-
+<a href="https://cssbattle.dev/player/YWIJJKy6kkh11UIjQ8Xz3bmSrgj2" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGRxXtERyQNdpuym5Z21kP5EpmePg6CkGixdvLEtAgg&s" alt="Codechef" height="70" width="70" /></a>
 </p>
 <hr>
 
