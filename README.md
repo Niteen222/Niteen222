@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Niteen Pandey</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amit-YAdav21&label=Profile%20views&color=0e75b6&style=flat" alt="Amit-Yadav21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niteen222&label=Profile%20views&color=0e75b6&style=flat" alt="Niteen222" /> </p>
 
 ### More about me:
 
@@ -17,7 +17,7 @@
 <hr>
 <h2 align="left"><i>Connect with me </i></h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/niteen-pandey-40460a169/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-yadav21" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niteen-pandey-40460a169/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niteen222" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yadav_amit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yadav_amit" height="30" width="60" /></a>
 
 </p>
@@ -52,13 +52,12 @@
 </tr>
 </table>
 <hr>
-<a href="https://github.com/Amit-Yadav21/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-Yadav21&theme=radical&hide=glsl,python" />
+<a href="https://github.com/Niteen222/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteen222&theme=radical&hide=glsl,python" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Amit-Yadav21&show_icons=true&theme=radical&line_height=27" alt="Amit-Yadav21's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Niteen222&show_icons=true&theme=radical&line_height=27" alt="Niteen222's github status" />
 </a>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Yadav21&" alt="Amit-Yadav21" /></p> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amit-Yadav21&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Niteen222&theme=gotham)](https://git.io/streak-status)
