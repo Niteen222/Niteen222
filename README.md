@@ -6,7 +6,7 @@
 ### More about me:
 - 🌱 I’m currently Studend at Navgurukul **---**
 - 👨‍💻 All of my projects are available at [Portfolio] ---.
-- 📫 How to reach me **niteen22@navgurukul.org**
+- 📫 How to reach me **niteen22@navgurukul.org , nitinpandey3224@gmail.com**
 - ⚡ Fun fact **I think programming is co-ding🤞**
 
 <hr>
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/niteen-pandey-40460a169/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-yadav21" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yadav_amit" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yadav_amit" height="30" width="60" /></a>
-<a href="https://app.netlify.com/teams/amit-yadav21/overview" target="_blank"><img align="center" src="https://res.cloudinary.com/dcexrqoje/image/upload/v1689491612/a55lxwwyg3mfrn81nefp.png" alt="yadav_amit" height="30" width="80" /></a>
+
 </p>
 <hr>
 
