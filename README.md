@@ -1,16 +1,15 @@
 <h1 align="left">Hi 👋, I'm Niteen Pandey</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amit-YAdav21&label=Profile%20views&color=0e75b6&style=flat" alt="Amit-Yadav21" /> </p>  
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amit-YAdav21&label=Profile%20views&color=0e75b6&style=flat" alt="Amit-Yadav21" /> </p>
 
 ### More about me:
+
 - 🌱 I’m currently Studend at Navgurukul **---**
 - 👨‍💻 All of my projects are available at [Portfolio] ---.
 - 📫 How to reach me **niteen22@navgurukul.org , nitinpandey3224@gmail.com**
 - ⚡ Fun fact **I think programming is co-ding🤞**
 
 <hr>
-
 
 <p align="center">
 
@@ -39,22 +38,16 @@
     <td align='center'>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="60"/> </a>
     </td>
-</tr>
-<tr>
      <td align='center'>
         <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="60"/> </a>
     </td>
-    <td align='center'>
-        <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="60"/> </a>
-    </td>
-    <td align='center'>
-        <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="50"/> </a>
+</tr>
+<tr>
     <td align='center'>
         <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="60"/> </a>
     </td>
     <td align='center'>
         <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="60"/> </a>
-    </td>
     </td>
 </tr>
 </table>
@@ -67,4 +60,5 @@
 </a>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Yadav21&" alt="Amit-Yadav21" /></p> -->
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amit-Yadav21&theme=gotham)](https://git.io/streak-stats)
