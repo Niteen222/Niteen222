@@ -53,7 +53,7 @@
 </table>
 <hr>
 <a href="https://github.com/Niteen222/github-readme-status">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteen222&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-status.vercel.app/api/top-langs/?username=Niteen222&theme=radical&hide=glsl,python" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Niteen222&show_icons=true&theme=radical&line_height=27" alt="Niteen222's github status" />
