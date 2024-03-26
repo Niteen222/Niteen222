@@ -4,7 +4,7 @@
 
 ### More about me:
 
-- 🌱 I’m currently Student at Navgurukul ** Student at Navgurukul**
+- 🌱 I’m currently Student at Navgurukul **Student at Navgurukul**
 - 👨‍💻 All of my projects are available at [Portfolio] ---.
 - 📫 How to reach me **niteen22@navgurukul.org , nitinpandey3224@gmail.com**
 - ⚡ Fun fact **I think programming is co-ding🤞**
