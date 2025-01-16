@@ -11,7 +11,7 @@
 ### More about me:
 
 - 🌱 I’m currently **Student at Navgurukul**
-- - 👨‍💻 All of my projects are available at - 👨‍💻 All of my projects are available at <a href="https://my-portfolio-five-rouge-63.vercel.app/" target="_blank"><strong>Portfolio</strong></a>
+- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-five-rouge-63.vercel.app/" target="_blank"><strong>Portfolio</strong></a>
 - 📫 How to reach me **niteen22@navgurukul.org , nitinpandey3224@gmail.com**
 - ⚡ Fun fact 🤓 **I think programming is co-ding🤞**
 
