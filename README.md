@@ -1,6 +1,6 @@
 <div style="width: 900px; overflow: hidden">
   <img
-    style="object-fit: cover; width: 100%"
+    style="object-fit: cover; width: 100%; Height:400px;"
     src="https://i.pinimg.com/736x/e8/74/a2/e874a259ec057445264b7268b1a20f78.jpg" />
 </div>
 
