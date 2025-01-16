@@ -1,3 +1,9 @@
+<div style="width: 900px; overflow: hidden">
+  <img
+    style="object-fit: cover; width: 100%"
+    src="https://cdn.pixabay.com/photo/2023/04/20/10/19/coding-7939372_1280.jpg" />
+</div>
+
 <h1 align="left">Hi 👋, I'm Niteen Pandey</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Niteen222&label=Profile%20views&color=0e75b6&style=flat" alt="Niteen222" /> </p>
