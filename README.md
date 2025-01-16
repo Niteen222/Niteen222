@@ -1,7 +1,7 @@
 <div style="width: 900px; overflow: hidden">
   <img
     style="object-fit: cover; width: 100%"
-    src="https://i.pinimg.com/736x/d2/4d/49/d24d49006a62272f9efe2a3d09ab2513.jpg" />
+    src="https://i.pinimg.com/736x/e8/74/a2/e874a259ec057445264b7268b1a20f78.jpg" />
 </div>
 
 <h1 align="left">Hi 👋, I'm Niteen Pandey</h1>
